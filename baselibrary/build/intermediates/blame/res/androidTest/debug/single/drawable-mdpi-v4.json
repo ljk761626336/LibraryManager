@@ -8,12 +8,12 @@
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\design_ic_visibility.png",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7b5b046a06024f028d2022bba54710ca\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
-    },
-    {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7b5b046a06024f028d2022bba54710ca\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",

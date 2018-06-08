@@ -16,20 +16,20 @@
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\timepicker_pw_time.xml",
-        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\timepicker_pw_time.xml"
-    },
-    {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7b5b046a06024f028d2022bba54710ca\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\18b237398428bbd53c3689b8f265960a\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_navigation_item.xml",
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7b5b046a06024f028d2022bba54710ca\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\18b237398428bbd53c3689b8f265960a\\res\\layout\\notification_template_part_time.xml"
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7b5b046a06024f028d2022bba54710ca\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\timepicker_pw_time.xml",
+        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\timepicker_pw_time.xml"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",

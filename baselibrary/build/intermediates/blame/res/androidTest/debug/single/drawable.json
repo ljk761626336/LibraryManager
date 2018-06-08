@@ -1,19 +1,19 @@
 [
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\droparrow2.png",
-        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\droparrow2.png"
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\droparrow2.png",
+        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\droparrow2.png"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
@@ -32,12 +32,12 @@
         "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_edittxt.xml"
     },
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_above_timepicker.png",
-        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_above_timepicker.png"
-    },
-    {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_loading_white_05.png",
         "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_loading_white_05.png"
+    },
+    {
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_above_timepicker.png",
+        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_above_timepicker.png"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_drawable_white.xml",
