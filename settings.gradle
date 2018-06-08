@@ -1,0 +1,4 @@
+include ':proj4android'
+include ':photopicker'
+include ':baselibrary'
+include ':versionupdata'

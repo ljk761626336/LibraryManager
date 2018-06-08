@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_bg">#aa000000</color>
+    <color name="balck">#000000</color>
+    <color name="base_end_color_default">#FFFFFF</color>
+    <color name="base_end_color_pressed">#ffd7d7d7</color>
+    <color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_start_color_pressed">#fffcfcfc</color>
+    <color name="blue">#368bc1</color>
+    <color name="bridleway">#70B971</color>
+    <color name="bug_closed">#00F</color>
+    <color name="bug_open">#F00</color>
+    <color name="building">#CC9999</color>
+    <color name="button_grey">#DCDCDC</color>
+    <color name="ccc_beige">#f6e497</color>
+    <color name="ccc_blue">#0000bb</color>
+    <color name="ccc_darkred">#4c1b1b</color>
+    <color name="ccc_green">#73B273</color>
+    <color name="ccc_ocher">#ffffb9</color>
+    <color name="ccc_red">#b9121b</color>
+    <color name="ccc_white">#fcfae1</color>
+    <color name="college">#DFAFDD</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPageDark">#FECB2F</color>
+    <color name="colorPageLight">#FEEEB6</color>
+    <color name="colorPrimary">@color/colorPageDark</color>
+    <color name="colorPrimaryDark">@color/colorPageDark</color>
+    <color name="colorText">#303030</color>
+    <color name="color_1">#FFFFFF</color>
+    <color name="color_10">#019333</color>
+    <color name="color_11">#036830</color>
+    <color name="color_12">#A5A5A5</color>
+    <color name="color_13">#727272</color>
+    <color name="color_14">#303030</color>
+    <color name="color_15">#000000</color>
+    <color name="color_16">#72b372</color>
+    <color name="color_2">#FCFF2C</color>
+    <color name="color_3">#FF835D</color>
+    <color name="color_4">#FE0002</color>
+    <color name="color_5">#FF49C8</color>
+    <color name="color_6">#CB85FF</color>
+    <color name="color_7">#38A8FE</color>
+    <color name="color_8">#0001FC</color>
+    <color name="color_9">#16CC79</color>
+    <color name="color_black">#000000</color>
+    <color name="color_headtext">#FF666666</color>
+    <color name="color_while">#FFFFFF</color>
+    <color name="commercial">#FBFEC8</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="cycleway">#D0E9D0</color>
+    <color name="darkorange">#FF824600</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="featurecolor">#73B273</color>
+    <color name="footway">#DCA86B</color>
+    <color name="forest">#71BE80</color>
+    <color name="gray">#bfbfbf</color>
+    <color name="green">#00ff00</color>
+    <color name="grey">#0F0F0F</color>
+    <color name="half_tran">#00000000</color>
+    <color name="half_transparent">#e0000000</color>
+    <color name="halt">#EF2B2B</color>
+    <color name="item_1">#F222</color>
+    <color name="item_2">#F000</color>
+    <color name="item_common">#F111</color>
+    <color name="leisure">#BDE3CB</color>
+    <color name="light_blue">#1e80d2</color>
+    <color name="light_blue_bg">#165f9e</color>
+    <color name="living_street">#FFFFFF</color>
+    <color name="md__defaultBackground">#FF555555</color>
+    <color name="md__transparent">#00000000</color>
+    <color name="motorway">#809BC0</color>
+    <color name="nocolor">#000</color>
+    <color name="orange">#FFF48B00</color>
+    <color name="parking">#F7EFB7</color>
+    <color name="pedestrian">#EEEEEE</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="power">#BABABA</color>
+    <color name="preset_bg">#ff666666</color>
+    <color name="preset_text">@android:color/white</color>
+    <color name="primary">#E46D71</color>
+    <color name="problem">#F0F</color>
+    <color name="red">#FF0000</color>
+    <color name="residential">#FFFFFF</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="retail">#FEEAEA</color>
+    <color name="river">#B5D6F1</color>
+    <color name="rounded_container_border">#ffb7babb</color>
+    <color name="secondary">#FDBF6F</color>
+    <color name="service">#FFFFFF</color>
+    <color name="station">#D80000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="stroke">#000</color>
+    <color name="tagedit_field_bg">#d8000000</color>
+    <color name="tagedit_field_text">@android:color/white</color>
+    <color name="tertiary">#FCFA74</color>
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#ffffff</color>
+    <color name="tracktype">#C69C49</color>
+    <color name="tram">#656565</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_gray">#A000</color>
+    <color name="trunk">#7FC97F</color>
+    <color name="unclassified">#FFFFFF</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="water">#B5D6F1</color>
+    <color name="wheel_timebtn_nor">#54a3fa</color>
+    <color name="wheel_timebtn_pre">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="larger_txtsize10">10sp</dimen>
+    <dimen name="larger_txtsize12">12sp</dimen>
+    <dimen name="larger_txtsize14">14sp</dimen>
+    <dimen name="larger_txtsize16">16sp</dimen>
+    <dimen name="larger_txtsize18">18sp</dimen>
+    <dimen name="larger_txtsize20">20sp</dimen>
+    <dimen name="larger_txtsize22">22sp</dimen>
+    <dimen name="larger_txtsize8">8sp</dimen>
+    <dimen name="lockscreen_color_icon_marger">2dip</dimen>
+    <dimen name="lockscreen_color_icon_marger_bottom">2dip</dimen>
+    <dimen name="lockscreen_color_icon_size">34dip</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_3">3dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_7">7dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="textsize_10">10sp</dimen>
+    <dimen name="textsize_12">12sp</dimen>
+    <dimen name="textsize_14">14sp</dimen>
+    <dimen name="textsize_16">16sp</dimen>
+    <dimen name="textsize_18">18sp</dimen>
+    <dimen name="textsize_20">20sp</dimen>
+    <dimen name="textsize_22">22sp</dimen>
+    <dimen name="textsize_8">8sp</dimen>
+    <dimen name="width_100">100dp</dimen>
+    <dimen name="width_40">40dp</dimen>
+    <dimen name="width_50">50dp</dimen>
+    <dimen name="width_80">80dp</dimen>
+    <dimen name="width_90">90dp</dimen>
+    <drawable name="screen_background_black">#ff000000</drawable>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+    <string name="app_name">BaseLibrary</string>
+    <string name="cancle">取    消</string>
+    <string name="help">帮助</string>
+    <string name="location_perssion">定位权限</string>
+    <string name="pickerview_day">日</string>
+    <string name="pickerview_hours">时</string>
+    <string name="pickerview_minutes">分</string>
+    <string name="pickerview_month">月</string>
+    <string name="pickerview_seconds">秒</string>
+    <string name="pickerview_year">年</string>
+    <string name="quit">退出</string>
+    <string name="settings">设置</string>
+    <string name="string_help_text">当前应用缺少必要权限。请点击设置->权限，进行设置</string>
+    <string name="sure">确    定</string>
+    <style name="AnimationPreview_up">
+        <item name="android:windowEnterAnimation">@anim/timepicker_anim_enter_bottom</item>
+        <item name="android:windowExitAnimation">@anim/timepicker_anim_exit_bottom</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowEnterAnimation">@anim/dialog_window_in</item>  
+        <item name="android:windowExitAnimation">@anim/dialog_window_out</item> 
+    </style>
+    <style name="FetionTheme.Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">#ff747474</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:scrollbarSize">3dp</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+    <style name="FetionTheme.Dialog.Toast" parent="@style/FetionTheme.Dialog">
+        <item name="android:background">@drawable/toast_bg</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Theme.AppCompat.Light.Dialog.Alert.Self" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
+        <!--修改AlertDialog按钮的颜色-->
+        <item name="colorAccent">#3F51B5</item>
+    </style>
+    <style name="alertDialog_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--自定义AlertDialog-->
+        <item name="alertDialogTheme">@style/Theme.AppCompat.Light.Dialog.Alert.Self</item>
+    </style>
+    <style name="common_dialog_1" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <!-- 设置未浮动窗口 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置无边框 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 设置无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 设置完全透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 设置屏幕变暗 -->
+    </style>
+    <style name="editText_style">
+        <item name="android:singleLine">true</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:hint">""</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:background">@drawable/bg_edittext</item>
+    </style>
+    <style name="imgbutton_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+    <style name="imgview_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+    </style>
+    <style name="progress_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="spinner_style">
+        <item name="android:background">@drawable/spinner_selector</item>
+        <item name="android:padding">10dip</item>
+        <item name="android:animationCache">true</item>
+        <item name="android:drawSelectorOnTop">true</item>
+        <item name="android:popupBackground">#FFFFFF</item>
+        <item name="android:requiresFadingEdge">none</item>
+        <item name="android:dropDownVerticalOffset">20dp</item>
+    </style>
+    <style name="spinner_style_m">
+        <item name="android:background">@drawable/spinner_selector</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:animationCache">true</item>
+        <item name="android:drawSelectorOnTop">true</item>
+        <item name="android:popupBackground">@color/transparent</item>
+        <item name="android:requiresFadingEdge">none</item>
+        <item name="android:dropDownVerticalOffset">20dp</item>
+    </style>
+    <style name="timepopwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/timepicker_anim_enter_bottom
+        </item> <!-- 指定显示的动画xml -->
+        <item name="android:windowExitAnimation">@anim/timepicker_anim_exit_bottom
+        </item> <!-- 指定消失的动画xml -->
+    </style>
+</resources>
