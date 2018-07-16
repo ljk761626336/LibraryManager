@@ -22,6 +22,7 @@ import com.titan.baselibrary.customview.CustomProgressDialog;
  */
 public class ProgressDialogUtil {
 
+	@SuppressLint("HandlerLeak")
 	static Handler handler = new Handler(){
 		@Override
 		public void handleMessage(Message msg) {
@@ -39,6 +40,17 @@ public class ProgressDialogUtil {
 		}
 	};
 	private static CustomProgressDialog progressDialog;
+
+	/**显示数据加载框*/
+	public static void startProgressDialog(final Context context,String mesage) {
+		if (progressDialog == null) {
+			progressDialog = CustomProgressDialog.createDialog(context);
+			progressDialog.setMessage(mesage);
+		}
+		Message message = new Message();
+		message.what = 0;
+		handler.sendMessage(message);
+	}
 
 	/**显示数据加载框*/
 	public static void startProgressDialog(final Context context) {

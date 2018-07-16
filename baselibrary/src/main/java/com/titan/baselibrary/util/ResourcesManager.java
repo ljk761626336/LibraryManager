@@ -13,22 +13,32 @@ import java.lang.reflect.InvocationTargetException;
 public class ResourcesManager implements Serializable {
 	private static final long serialVersionUID = 1L;
 
-	private Context mContext;
+	private static Context mContext;
 	private static ResourcesManager instance;
 
-	public static synchronized ResourcesManager getInstance(Context context) {
-		if (instance == null) {
-			instance = new ResourcesManager(context);
-		}
-		return instance;
+//	public static synchronized ResourcesManager getInstance(Context context) {
+//		if (instance == null) {
+//			instance = new ResourcesManager(context);
+//		}
+//		return instance;
+//	}
+//
+//	private ResourcesManager(Context context){
+//		this.mContext = context;
+//	}
+
+	private static class LazyHolder {
+		private static final ResourcesManager INSTANCE = new ResourcesManager();
 	}
 
-	private ResourcesManager(Context context){
-		this.mContext = context;
+	public static final ResourcesManager getInstance(Context context) {
+		mContext = context;
+		return ResourcesManager.LazyHolder.INSTANCE;
 	}
+
 
 	/** 获取手机内部存储地址和外部SD卡存储地址 */
-	public String[] getStoragePath() {
+	public static String[] getStoragePath() {
 
 		StorageManager sm = (StorageManager) mContext.getSystemService(Context.STORAGE_SERVICE);
 		String[] paths = null;

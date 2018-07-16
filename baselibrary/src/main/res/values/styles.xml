@@ -135,7 +135,7 @@
     <!--Spinner背景设置-->
     <style name="spinner_style_m">
         <item name="android:background">@drawable/spinner_selector</item>
-        <item name="android:padding">5dip</item>
+        <item name="android:padding">3dip</item>
         <item name="android:animationCache">true</item>
         <item name="android:drawSelectorOnTop">true</item>
         <item name="android:popupBackground">@color/transparent</item>

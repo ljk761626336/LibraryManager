@@ -55,5 +55,21 @@ public class DialogParamsUtil {
         dialog.getWindow().setAttributes(params);
     }
 
+    /** 根据不同的设备dialog 宽度设置
+     *pwidth 大屏幕设备的宽度权重
+     *mwidth 小屏幕设备的宽度权重
+     * */
+    public static void setDialogParamsTop(Context context, Dialog dialog) {
+        dialog.show();
+        DisplayMetrics dm = new DisplayMetrics();
+        WindowManager windowManager = (WindowManager) context.getSystemService(Context.WINDOW_SERVICE);
+        windowManager.getDefaultDisplay().getMetrics(dm);
+        WindowManager.LayoutParams params = dialog.getWindow().getAttributes();
+        params.height = WindowManager.LayoutParams.MATCH_PARENT;
+        params.width = WindowManager.LayoutParams.MATCH_PARENT;
+        dialog.getWindow().setAttributes(params);
+        dialog.getWindow().getDecorView().setPadding(0,0,0,0);
+    }
+
 
 }

@@ -549,7 +549,7 @@
     <declare-styleable name="FontFamilyFont"><attr name="fontStyle">
             <enum name="normal" value="0"/>
             <enum name="italic" value="1"/>
-        </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/></declare-styleable>
+        </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/><attr name="android:fontStyle"/><attr name="android:font"/><attr name="android:fontWeight"/></declare-styleable>
     <declare-styleable name="ForegroundLinearLayout"><attr name="android:foreground"/><attr name="android:foregroundGravity"/><attr format="boolean" name="foregroundInsidePadding"/></declare-styleable>
     <declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers">
@@ -885,6 +885,7 @@
     <item name="save_non_transition_alpha" type="id"/>
     <item name="save_scale_type" type="id"/>
     <item name="split_action_bar" type="id"/>
+    <item name="tag_transition_group" type="id"/>
     <item name="text" type="id"/>
     <item name="text2" type="id"/>
     <item name="textinput_counter" type="id"/>
@@ -2617,7 +2618,7 @@
     </style>
     <style name="spinner_style_m">
         <item name="android:background">@drawable/spinner_selector</item>
-        <item name="android:padding">5dip</item>
+        <item name="android:padding">3dip</item>
         <item name="android:animationCache">true</item>
         <item name="android:drawSelectorOnTop">true</item>
         <item name="android:popupBackground">@color/transparent</item>

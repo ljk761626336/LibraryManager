@@ -12,7 +12,6 @@ import java.io.File;
 public class MemoryUtil {
 
     private static Context mContext;
-    private static MemoryUtil instance;
     /**
      * 内部类实现单例模式
      * 延迟加载，减少内存开销
@@ -23,7 +22,7 @@ public class MemoryUtil {
         private static final MemoryUtil INSTANCE = new MemoryUtil();
     }
 
-    public static final MemoryUtil getInstance(Context context) {
+    public static MemoryUtil getInstance(Context context) {
         mContext = context;
         return LazyHolder.INSTANCE;
     }

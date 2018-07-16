@@ -379,7 +379,7 @@ public class PhotoPickerActivity extends Activity implements PhotoAdapter.PhotoC
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
                 try {
                     //改变Uri  com.xykj.customview.fileprovider注意和xml中的一致
-                    Uri photoURI = FileProvider.getUriForFile(getApplicationContext(), this.getApplicationContext().getPackageName() + ".provider", mTmpFile);
+                    Uri photoURI = FileProvider.getUriForFile(getApplicationContext(), getApplicationContext().getPackageName() + ".provider", mTmpFile);
                     cameraIntent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION | Intent.FLAG_GRANT_WRITE_URI_PERMISSION);
                     if (photoURI != null) {
                         cameraIntent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);

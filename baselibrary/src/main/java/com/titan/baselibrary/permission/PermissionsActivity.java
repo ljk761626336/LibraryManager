@@ -33,6 +33,15 @@ public class PermissionsActivity extends AppCompatActivity {
     private PermissionsChecker mChecker; // 权限检测器
     private boolean isRequireCheck; // 是否需要系统权限检测
 
+    public static void initPermission(Activity activity,String[] PERMISSIONS,int REQUEST_CODE){
+        PermissionsChecker mPermissionsChecker = new PermissionsChecker(activity);
+        boolean flag = mPermissionsChecker.lacksPermissions(PERMISSIONS);
+        if (flag) {
+            startActivityForResult(activity, REQUEST_CODE, PERMISSIONS);
+        }
+    }
+
+
     // 启动当前权限页面的公开接口
     public static void startActivityForResult(Activity activity, int requestCode, String... permissions) {
         Intent intent = new Intent(activity, PermissionsActivity.class);

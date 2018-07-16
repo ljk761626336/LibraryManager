@@ -10,13 +10,17 @@ import android.os.Build;
 import android.provider.MediaStore;
 import android.support.v4.content.FileProvider;
 import android.util.Base64;
+import android.util.Log;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  * Created by li on 2017/5/31.
@@ -166,6 +170,12 @@ public class Util {
         return Util.Bitmap2StrByBase64(bitmap);
     }
 
+    /**文件转为String字符流*/
+    public static String fileToString(String filepath){
+        byte[] bytes = getBytes(filepath);
+        return Base64.encodeToString(bytes, Base64.DEFAULT);
+    }
+
     /**
      * 通过Base32将Bitmap转换成Base64字符串
      */
@@ -174,6 +184,43 @@ public class Util {
         bit.compress(Bitmap.CompressFormat.JPEG, 50, bos);//参数100表示不压缩
         byte[] bytes = bos.toByteArray();
         return Base64.encodeToString(bytes, Base64.DEFAULT);
+    }
+
+    /**文件转为字节流*/
+    public static byte[] getBytes(String filePath){
+        byte[] buffer = null;
+        try {
+            File file = new File(filePath);
+            FileInputStream fis = new FileInputStream(file);
+            ByteArrayOutputStream bos = new ByteArrayOutputStream(1000);
+            byte[] b = new byte[1000];
+            int n;
+            while ((n = fis.read(b)) != -1) {
+                bos.write(b, 0, n);
+            }
+            fis.close();
+            bos.close();
+            buffer = bos.toByteArray();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return buffer;
+    }
+
+    /** 判断当前手机是否有ROOT权限 */
+    public static boolean isRoot() throws Exception{
+        boolean bool = false;
+
+        if ((!new File("/system/bin/su").exists()) &&
+                (!new File("/system/xbin/su").exists())){
+            bool = false;
+        } else {
+            bool = true;
+        }
+        Log.d("===============", "bool = " + bool);
+        return bool;
     }
 
 }

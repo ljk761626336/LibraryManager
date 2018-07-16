@@ -1,4 +1,6 @@
 include ':proj4android'
 include ':photopicker'
-include ':baselibrary'
 include ':versionupdata'
+include ':baselibrary'
+include ':legendlibrary'
+include ':medialibrary'
