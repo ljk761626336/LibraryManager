@@ -4,7 +4,17 @@
             "outputFile": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8ef43c57d932c68ec5fe3bca14ffd0f7\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,212,347,416,480,549",
+                        "endColumns": "156,134,68,63,68,69",
+                        "endOffsets": "207,342,411,475,544,614"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\d3ffec9e763934a9ee8c17721f9bbfa5\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "619,685,746,812",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "680,741,807,874"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e969f0e1970498a05f8b9f93e86e3886\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,212,347,416,480,549",
-                        "endColumns": "156,134,68,63,68,69",
-                        "endOffsets": "207,342,411,475,544,614"
                     }
                 }
             ]
@@ -36,7 +36,17 @@
             "outputFile": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8ef43c57d932c68ec5fe3bca14ffd0f7\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f75c86ea687ad909176f13b2bc2efddd\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,212,347,416,480,549",
+                        "endColumns": "156,134,68,63,68,69",
+                        "endOffsets": "207,342,411,475,544,614"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\d3ffec9e763934a9ee8c17721f9bbfa5\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -50,16 +60,6 @@
                         "startOffsets": "619,685,746,812",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "680,741,807,874"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e969f0e1970498a05f8b9f93e86e3886\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,212,347,416,480,549",
-                        "endColumns": "156,134,68,63,68,69",
-                        "endOffsets": "207,342,411,475,544,614"
                     }
                 }
             ]
