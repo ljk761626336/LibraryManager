@@ -122,6 +122,7 @@
     <dimen name="lockscreen_color_icon_marger_bottom">2dip</dimen>
     <dimen name="lockscreen_color_icon_size">34dip</dimen>
     <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
     <dimen name="padding_3">3dp</dimen>
     <dimen name="padding_5">5dp</dimen>
     <dimen name="padding_7">7dp</dimen>
@@ -133,8 +134,13 @@
     <dimen name="textsize_18">18sp</dimen>
     <dimen name="textsize_20">20sp</dimen>
     <dimen name="textsize_22">22sp</dimen>
+    <dimen name="textsize_25">25sp</dimen>
+    <dimen name="textsize_30">30sp</dimen>
     <dimen name="textsize_8">8sp</dimen>
     <dimen name="width_100">100dp</dimen>
+    <dimen name="width_20">20dp</dimen>
+    <dimen name="width_30">30dp</dimen>
+    <dimen name="width_35">35dp</dimen>
     <dimen name="width_40">40dp</dimen>
     <dimen name="width_50">50dp</dimen>
     <dimen name="width_80">80dp</dimen>
@@ -244,8 +250,13 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_gravity">bottom</item>
-        <item name="android:layout_margin">2dp</item>
-        <item name="android:padding">5dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:padding">7dp</item>
+    </style>
+    <style name="imgbutton_style_m">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
     </style>
     <style name="imgview_style">
         <item name="android:layout_width">wrap_content</item>

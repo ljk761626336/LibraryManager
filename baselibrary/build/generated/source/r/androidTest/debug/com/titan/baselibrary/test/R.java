@@ -3632,31 +3632,37 @@ containing a value of this type.
         public static final int notification_top_pad=0x7f07009c;
         public static final int notification_top_pad_large_text=0x7f07009d;
         public static final int padding_10=0x7f07009e;
-        public static final int padding_3=0x7f07009f;
-        public static final int padding_5=0x7f0700a0;
-        public static final int padding_7=0x7f0700a1;
-        public static final int padding_8=0x7f0700a2;
-        public static final int textsize_10=0x7f0700a3;
-        public static final int textsize_12=0x7f0700a4;
-        public static final int textsize_14=0x7f0700a5;
-        public static final int textsize_16=0x7f0700a6;
-        public static final int textsize_18=0x7f0700a7;
-        public static final int textsize_20=0x7f0700a8;
-        public static final int textsize_22=0x7f0700a9;
-        public static final int textsize_8=0x7f0700aa;
-        public static final int tooltip_corner_radius=0x7f0700ab;
-        public static final int tooltip_horizontal_padding=0x7f0700ac;
-        public static final int tooltip_margin=0x7f0700ad;
-        public static final int tooltip_precise_anchor_extra_offset=0x7f0700ae;
-        public static final int tooltip_precise_anchor_threshold=0x7f0700af;
-        public static final int tooltip_vertical_padding=0x7f0700b0;
-        public static final int tooltip_y_offset_non_touch=0x7f0700b1;
-        public static final int tooltip_y_offset_touch=0x7f0700b2;
-        public static final int width_100=0x7f0700b3;
-        public static final int width_40=0x7f0700b4;
-        public static final int width_50=0x7f0700b5;
-        public static final int width_80=0x7f0700b6;
-        public static final int width_90=0x7f0700b7;
+        public static final int padding_15=0x7f07009f;
+        public static final int padding_3=0x7f0700a0;
+        public static final int padding_5=0x7f0700a1;
+        public static final int padding_7=0x7f0700a2;
+        public static final int padding_8=0x7f0700a3;
+        public static final int textsize_10=0x7f0700a4;
+        public static final int textsize_12=0x7f0700a5;
+        public static final int textsize_14=0x7f0700a6;
+        public static final int textsize_16=0x7f0700a7;
+        public static final int textsize_18=0x7f0700a8;
+        public static final int textsize_20=0x7f0700a9;
+        public static final int textsize_22=0x7f0700aa;
+        public static final int textsize_25=0x7f0700ab;
+        public static final int textsize_30=0x7f0700ac;
+        public static final int textsize_8=0x7f0700ad;
+        public static final int tooltip_corner_radius=0x7f0700ae;
+        public static final int tooltip_horizontal_padding=0x7f0700af;
+        public static final int tooltip_margin=0x7f0700b0;
+        public static final int tooltip_precise_anchor_extra_offset=0x7f0700b1;
+        public static final int tooltip_precise_anchor_threshold=0x7f0700b2;
+        public static final int tooltip_vertical_padding=0x7f0700b3;
+        public static final int tooltip_y_offset_non_touch=0x7f0700b4;
+        public static final int tooltip_y_offset_touch=0x7f0700b5;
+        public static final int width_100=0x7f0700b6;
+        public static final int width_20=0x7f0700b7;
+        public static final int width_30=0x7f0700b8;
+        public static final int width_35=0x7f0700b9;
+        public static final int width_40=0x7f0700ba;
+        public static final int width_50=0x7f0700bb;
+        public static final int width_80=0x7f0700bc;
+        public static final int width_90=0x7f0700bd;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
@@ -4586,13 +4592,14 @@ containing a value of this type.
         public static final int common_dialog_1=0x7f080193;
         public static final int editText_style=0x7f080194;
         public static final int imgbutton_style=0x7f080195;
-        public static final int imgview_style=0x7f080196;
-        public static final int progress_dialog=0x7f080197;
-        public static final int spinner_style=0x7f080198;
-        public static final int spinner_style_m=0x7f080199;
+        public static final int imgbutton_style_m=0x7f080196;
+        public static final int imgview_style=0x7f080197;
+        public static final int progress_dialog=0x7f080198;
+        public static final int spinner_style=0x7f080199;
+        public static final int spinner_style_m=0x7f08019a;
         /**  指定消失的动画xml 
          */
-        public static final int timepopwindow_anim_style=0x7f08019a;
+        public static final int timepopwindow_anim_style=0x7f08019b;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.

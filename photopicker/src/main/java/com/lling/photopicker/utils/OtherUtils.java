@@ -87,7 +87,7 @@ public class OtherUtils {
         if(Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED)){
             String timeStamp = String.valueOf(new Date().getTime());
             file = new File(Environment.getExternalStorageDirectory() +
-                    File.separator + timeStamp+".jpg");
+                    File.separator +"DCIM"+ File.separator +timeStamp+".jpg");
         }else{
             File cacheDir = context.getCacheDir();
             String timeStamp = String.valueOf(new Date().getTime());

@@ -42,25 +42,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a514eef2f98fa14ecc49fda5548595e7\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
-                        "endLines": "2,3,4,5,6,7,8,9,12,17",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,283,284,291,295,299,302",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,20759,20875,21332,21626,21921,22093",
-                        "endLines": "2,3,4,5,283,284,291,295,301,306",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,20870,20996,21453,21749,22088,22426"
-                    }
-                },
-                {
                     "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8ef43c57d932c68ec5fe3bca14ffd0f7\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
@@ -77,6 +58,25 @@
                         "endLines": "287,290,294,298",
                         "endColumns": "12,12,12,12",
                         "endOffsets": "21164,21327,21621,21916"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2fe913f19f46ccc9731c5fbaf147f98b\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,283,284,291,295,299,302",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,20759,20875,21332,21626,21921,22093",
+                        "endLines": "2,3,4,5,283,284,291,295,301,306",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,20870,20996,21453,21749,22088,22426"
                     }
                 }
             ]
@@ -123,25 +123,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a514eef2f98fa14ecc49fda5548595e7\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
-                        "endLines": "2,3,4,5,6,7,8,9,12,17",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,283,284,291,295,299,302",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,20759,20875,21332,21626,21921,22093",
-                        "endLines": "2,3,4,5,283,284,291,295,301,306",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,20870,20996,21453,21749,22088,22426"
-                    }
-                },
-                {
                     "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8ef43c57d932c68ec5fe3bca14ffd0f7\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
@@ -158,6 +139,25 @@
                         "endLines": "287,290,294,298",
                         "endColumns": "12,12,12,12",
                         "endOffsets": "21164,21327,21621,21916"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2fe913f19f46ccc9731c5fbaf147f98b\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,283,284,291,295,299,302",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,20759,20875,21332,21626,21921,22093",
+                        "endLines": "2,3,4,5,283,284,291,295,301,306",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,20870,20996,21453,21749,22088,22426"
                     }
                 }
             ]

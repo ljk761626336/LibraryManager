@@ -239,9 +239,10 @@ public class ImageLoader {
             bitmap = tryLoadFromDiskCache(path);
 
             if(bitmap == null) {
-                bitmap = decodeSampledBitmapFromFile(path, params[0],
-                        params[1]);
-                BITMAP_CACHE_EXECUTOR.execute(new DiskCacheThread(path, bitmap));
+                bitmap = decodeSampledBitmapFromFile(path, params[0],params[1]);
+                if(bitmap != null){
+                    BITMAP_CACHE_EXECUTOR.execute(new DiskCacheThread(path, bitmap));
+                }
             }
             mPoolSemaphore.release();
             addBitmapToMemoryCache(path, bitmap);

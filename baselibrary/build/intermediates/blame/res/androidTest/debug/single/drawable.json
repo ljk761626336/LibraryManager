@@ -1,19 +1,19 @@
 [
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e969f0e1970498a05f8b9f93e86e3886\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e969f0e1970498a05f8b9f93e86e3886\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\droparrow2.png",
-        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\droparrow2.png"
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e969f0e1970498a05f8b9f93e86e3886\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e969f0e1970498a05f8b9f93e86e3886\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\droparrow2.png",
+        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\droparrow2.png"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
@@ -32,12 +32,12 @@
         "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\background_edittxt.xml"
     },
     {
-        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_above_timepicker.png",
-        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_above_timepicker.png"
-    },
-    {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_loading_white_05.png",
         "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_loading_white_05.png"
+    },
+    {
+        "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_above_timepicker.png",
+        "source": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_above_timepicker.png"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_drawable_white.xml",
@@ -101,7 +101,7 @@
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a514eef2f98fa14ecc49fda5548595e7\\res\\drawable\\notification_bg_low.xml"
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2fe913f19f46ccc9731c5fbaf147f98b\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a514eef2f98fa14ecc49fda5548595e7\\res\\drawable\\notification_icon_background.xml"
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2fe913f19f46ccc9731c5fbaf147f98b\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -233,7 +233,7 @@
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a514eef2f98fa14ecc49fda5548595e7\\res\\drawable\\notification_bg.xml"
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2fe913f19f46ccc9731c5fbaf147f98b\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_loading_white_06.png",
@@ -253,7 +253,7 @@
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a514eef2f98fa14ecc49fda5548595e7\\res\\drawable\\notification_tile_bg.xml"
+        "source": "C:\\Users\\otitan_li\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2fe913f19f46ccc9731c5fbaf147f98b\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "G:\\workspace\\LibraryManager\\baselibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",

@@ -14,18 +14,6 @@ public class ResourcesManager implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	private static Context mContext;
-	private static ResourcesManager instance;
-
-//	public static synchronized ResourcesManager getInstance(Context context) {
-//		if (instance == null) {
-//			instance = new ResourcesManager(context);
-//		}
-//		return instance;
-//	}
-//
-//	private ResourcesManager(Context context){
-//		this.mContext = context;
-//	}
 
 	private static class LazyHolder {
 		private static final ResourcesManager INSTANCE = new ResourcesManager();
@@ -38,7 +26,7 @@ public class ResourcesManager implements Serializable {
 
 
 	/** 获取手机内部存储地址和外部SD卡存储地址 */
-	public static String[] getStoragePath() {
+	public String[] getStoragePath() {
 
 		StorageManager sm = (StorageManager) mContext.getSystemService(Context.STORAGE_SERVICE);
 		String[] paths = null;

@@ -36,6 +36,9 @@ public class MemoryUtil {
             File file = new File(path+"/"+name);
             if(file.exists()){
                 return file.getPath();
+            }else{
+                file.mkdirs();
+                return file.getPath();
             }
         }
         return "";
