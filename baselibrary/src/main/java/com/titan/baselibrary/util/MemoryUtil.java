@@ -38,7 +38,9 @@ public class MemoryUtil {
                 return file.getPath();
             }else{
                 file.mkdirs();
-                return file.getPath();
+                if(file.exists()){
+                    return file.getPath();
+                }
             }
         }
         return "";

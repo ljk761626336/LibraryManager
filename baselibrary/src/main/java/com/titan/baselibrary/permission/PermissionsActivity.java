@@ -35,8 +35,7 @@ public class PermissionsActivity extends AppCompatActivity {
     private boolean isRequireCheck; // 是否需要系统权限检测
 
     public static void initPermission(Activity activity,String[] PERMISSIONS,int REQUEST_CODE){
-        PermissionsChecker mPermissionsChecker = new PermissionsChecker(activity);
-        boolean flag = mPermissionsChecker.lacksPermissions(PERMISSIONS);
+        boolean flag = checkPermission(activity,PERMISSIONS);
         if (flag) {
             startActivityForResult(activity, REQUEST_CODE, PERMISSIONS);
         }
