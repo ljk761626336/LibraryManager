@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/baselibrary" />
+            <option value="$PROJECT_DIR$/eventlibrary" />
             <option value="$PROJECT_DIR$/legendlibrary" />
             <option value="$PROJECT_DIR$/medialibrary" />
             <option value="$PROJECT_DIR$/photopicker" />

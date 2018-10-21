@@ -15,6 +15,7 @@ import com.titan.baselibrary.R;
 */
 public class ToastUtil {
 
+
 	@SuppressLint("ShowToast")
 	private static Toast makeText(Context context, CharSequence text,int duration) {
 		Toast result = Toast.makeText(context, text, duration);

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LibraryManager.iml" filepath="$PROJECT_DIR$/LibraryManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/baselibrary/baselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventlibrary/eventlibrary.iml" filepath="$PROJECT_DIR$/eventlibrary/eventlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/legendlibrary/legendlibrary.iml" filepath="$PROJECT_DIR$/legendlibrary/legendlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/medialibrary/medialibrary.iml" filepath="$PROJECT_DIR$/medialibrary/medialibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/photopicker/photopicker.iml" filepath="$PROJECT_DIR$/photopicker/photopicker.iml" />
